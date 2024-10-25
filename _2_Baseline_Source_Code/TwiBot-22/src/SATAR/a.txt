@@ -1,0 +1,328 @@
+Baseline Results/BotHunter/gilani-2017/cm.png
+Baseline Results/BotHunter/gilani-2017/results.json
+Baseline Results/BotHunter/twibot-s1/results.json
+Baseline Results/BotHunter/twibot-s1/twibot-s1_cm.png
+Baseline Results/BotHunter/twibot-s2/results.json
+Baseline Results/BotHunter/twibot-s2/twibot-s2_cm.png
+Baseline Results/BotHunter/varol-icwsm/cm.png
+Baseline Results/BotHunter/varol-icwsm/results.json
+Baseline Results/Botometer Lite/gilani-2017/cm.png
+Baseline Results/Botometer Lite/gilani-2017/results.json
+Baseline Results/Botometer Lite/varol-icwsm/cm.png
+Baseline Results/Botometer Lite/varol-icwsm/results.json
+Baseline Results/Botometer_0.5/gilani-2017/cm.png
+Baseline Results/Botometer_0.5/gilani-2017/results.json
+Baseline Results/Botometer_0.5/varol-icwsm/cm.png
+Baseline Results/Botometer_0.5/varol-icwsm/results.json
+Baseline Results/Botometer_0.6/gilani-2017/cm.png
+Baseline Results/Botometer_0.6/gilani-2017/results.json
+Baseline Results/Botometer_0.6/varol-icwsm/cm.png
+Baseline Results/Botometer_0.6/varol-icwsm/results.json
+Baseline Results/Botometer_0.7/gilani-2017/cm.png
+Baseline Results/Botometer_0.7/gilani-2017/results.json
+Baseline Results/Botometer_0.7/varol-icwsm/cm.png
+Baseline Results/Botometer_0.7/varol-icwsm/results.json
+Baseline Results/DeeProBot/gilani-2017/gilani-2017_cm.png
+Baseline Results/DeeProBot/gilani-2017/results.json
+Baseline Results/DeeProBot/varol-icwsm/results.json
+Baseline Results/DeeProBot/varol-icwsm/varol-icwsm_cm.png
+Baseline Results/DigitalDNA_B3/gilani-2017/results.json
+Baseline Results/DigitalDNA_B3/varol-icwsm/results.json
+Baseline Results/DigitalDNA_B6/gilani-2017/results.json
+Baseline Results/DigitalDNA_B6/varol-icwsm/results.json
+Baseline Results/README.md
+Baseline Results/SATAR/gilani-2017/cm.png
+Baseline Results/SATAR/gilani-2017/results.json
+Baseline Results/SATAR/varol-icwsm/cm.png
+Baseline Results/SATAR/varol-icwsm/results.json
+Baseline Results/baselines.png
+Baseline Results/gilani.csv
+Baseline Results/graph.py
+Baseline Results/requirements.txt
+Baseline Results/tabulate.py
+Baseline Results/twibot-s1.csv
+Baseline Results/twibot-s2.csv
+Baseline Results/varol.csv
+Baseline Source/Botometer Lite/README.md
+Baseline Source/Botometer Lite/gilani-2017-clean.csv
+Baseline Source/Botometer Lite/model.py
+Baseline Source/Botometer Lite/requirements.txt
+Baseline Source/Botometer Lite/varol-icwsm-clean.csv
+Baseline Source/Botometer/.gitignore
+Baseline Source/Botometer/README.md
+Baseline Source/Botometer/active_users/gilani-2017.txt
+Baseline Source/Botometer/active_users/political-bots-2019.txt
+Baseline Source/Botometer/active_users/varol-2017.txt
+Baseline Source/Botometer/config.json
+Baseline Source/Botometer/config1.json
+Baseline Source/Botometer/consolidate.py
+Baseline Source/Botometer/main.py
+Baseline Source/Botometer/requirements.txt
+Baseline Source/DigitalDNA/README.md
+Baseline Source/DigitalDNA/ddna_preprocess.py
+Baseline Source/DigitalDNA/model.py
+Baseline Source/DigitalDNA/requirements.txt
+Baseline Source/DigitalDNA/split_json.py
+Baseline Source/README.md
+Baseline Source/TwiBot-22/README.md
+Baseline Source/TwiBot-22/datasets/.gitignore
+Baseline Source/TwiBot-22/datasets/README.md
+Baseline Source/TwiBot-22/datasets/edge.py
+Baseline Source/TwiBot-22/datasets/edge_twibot.py
+Baseline Source/TwiBot-22/datasets/gilani-2017/edge.csv
+Baseline Source/TwiBot-22/datasets/gilani-2017/label.csv
+Baseline Source/TwiBot-22/datasets/gilani-2017/load_json.py
+Baseline Source/TwiBot-22/datasets/gilani-2017/node.json
+Baseline Source/TwiBot-22/datasets/gilani-2017/split.csv
+Baseline Source/TwiBot-22/datasets/node.py
+Baseline Source/TwiBot-22/datasets/node_twibot.py
+Baseline Source/TwiBot-22/datasets/satar_node.py
+Baseline Source/TwiBot-22/datasets/split.py
+Baseline Source/TwiBot-22/datasets/split_twibot.py
+Baseline Source/TwiBot-22/datasets/twibot-s1/edge.csv
+Baseline Source/TwiBot-22/datasets/twibot-s1/label.csv
+Baseline Source/TwiBot-22/datasets/twibot-s1/load_json.py
+Baseline Source/TwiBot-22/datasets/twibot-s1/node.json
+Baseline Source/TwiBot-22/datasets/twibot-s1/split.csv
+Baseline Source/TwiBot-22/datasets/twibot-s2/edge.csv
+Baseline Source/TwiBot-22/datasets/twibot-s2/label.csv
+Baseline Source/TwiBot-22/datasets/twibot-s2/load_json.py
+Baseline Source/TwiBot-22/datasets/twibot-s2/node.json
+Baseline Source/TwiBot-22/datasets/twibot-s2/split.csv
+Baseline Source/TwiBot-22/datasets/varol-icwsm/edge.csv
+Baseline Source/TwiBot-22/datasets/varol-icwsm/label.csv
+Baseline Source/TwiBot-22/datasets/varol-icwsm/load_json.py
+Baseline Source/TwiBot-22/datasets/varol-icwsm/node.json
+Baseline Source/TwiBot-22/datasets/varol-icwsm/split.csv
+Baseline Source/TwiBot-22/requirements.txt
+Baseline Source/TwiBot-22/src/BotHunter/README.md
+Baseline Source/TwiBot-22/src/BotHunter/preprocess.py
+Baseline Source/TwiBot-22/src/BotHunter/tmp/gilani-2017/features.npy
+Baseline Source/TwiBot-22/src/BotHunter/tmp/gilani-2017/idx.json
+Baseline Source/TwiBot-22/src/BotHunter/tmp/gilani-2017/labels.npy
+Baseline Source/TwiBot-22/src/BotHunter/tmp/twibot-s1/features.npy
+Baseline Source/TwiBot-22/src/BotHunter/tmp/twibot-s1/idx.json
+Baseline Source/TwiBot-22/src/BotHunter/tmp/twibot-s1/labels.npy
+Baseline Source/TwiBot-22/src/BotHunter/tmp/twibot-s2/features.npy
+Baseline Source/TwiBot-22/src/BotHunter/tmp/twibot-s2/idx.json
+Baseline Source/TwiBot-22/src/BotHunter/tmp/twibot-s2/labels.npy
+Baseline Source/TwiBot-22/src/BotHunter/tmp/varol-icwsm/features.npy
+Baseline Source/TwiBot-22/src/BotHunter/tmp/varol-icwsm/idx.json
+Baseline Source/TwiBot-22/src/BotHunter/tmp/varol-icwsm/labels.npy
+Baseline Source/TwiBot-22/src/BotHunter/train.py
+Baseline Source/TwiBot-22/src/DeeProBot/.gitignore
+Baseline Source/TwiBot-22/src/DeeProBot/README.md
+Baseline Source/TwiBot-22/src/DeeProBot/consolidate_results.py
+Baseline Source/TwiBot-22/src/DeeProBot/dataset.py
+Baseline Source/TwiBot-22/src/DeeProBot/des_embedding.py
+Baseline Source/TwiBot-22/src/DeeProBot/gilani-2017.py
+Baseline Source/TwiBot-22/src/DeeProBot/model.py
+Baseline Source/TwiBot-22/src/DeeProBot/run.py
+Baseline Source/TwiBot-22/src/DeeProBot/train.py
+Baseline Source/TwiBot-22/src/DeeProBot/utils.py
+Baseline Source/TwiBot-22/src/DeeProBot/varol-icwsm.py
+Baseline Source/TwiBot-22/src/SATAR/.gitignore
+Baseline Source/TwiBot-22/src/SATAR/README.md
+Baseline Source/TwiBot-22/src/SATAR/dataset.py
+Baseline Source/TwiBot-22/src/SATAR/eval.py
+Baseline Source/TwiBot-22/src/SATAR/get_neighbor_reps.py
+Baseline Source/TwiBot-22/src/SATAR/get_reps.py
+Baseline Source/TwiBot-22/src/SATAR/graph_remove.py
+Baseline Source/TwiBot-22/src/SATAR/model.py
+Baseline Source/TwiBot-22/src/SATAR/preprocess/gilani-2017.py
+Baseline Source/TwiBot-22/src/SATAR/preprocess/varol-icwsm.py
+Baseline Source/TwiBot-22/src/SATAR/pretrain.py
+Baseline Source/TwiBot-22/src/SATAR/run.sh
+Baseline Source/TwiBot-22/src/SATAR/train.py
+Baseline Source/TwiBot-22/src/SATAR/utils.py
+BotSSCL/.gitignore
+BotSSCL/Data/gilani-2017-clean.csv
+BotSSCL/Data/varol-icwsm-clean.csv
+BotSSCL/README.md
+BotSSCL/aug1/gilani-2017_128_128.json
+BotSSCL/aug1/gilani-2017_128_16.json
+BotSSCL/aug1/gilani-2017_128_32.json
+BotSSCL/aug1/gilani-2017_128_64.json
+BotSSCL/aug1/gilani-2017_16_128.json
+BotSSCL/aug1/gilani-2017_16_16.json
+BotSSCL/aug1/gilani-2017_16_32.json
+BotSSCL/aug1/gilani-2017_16_64.json
+BotSSCL/aug1/gilani-2017_32_128.json
+BotSSCL/aug1/gilani-2017_32_16.json
+BotSSCL/aug1/gilani-2017_32_32.json
+BotSSCL/aug1/gilani-2017_32_64.json
+BotSSCL/aug1/gilani-2017_64_128.json
+BotSSCL/aug1/gilani-2017_64_16.json
+BotSSCL/aug1/gilani-2017_64_32.json
+BotSSCL/aug1/gilani-2017_64_64.json
+BotSSCL/aug1/varol-icwsm_128_128.json
+BotSSCL/aug1/varol-icwsm_128_16.json
+BotSSCL/aug1/varol-icwsm_128_32.json
+BotSSCL/aug1/varol-icwsm_128_64.json
+BotSSCL/aug1/varol-icwsm_16_128.json
+BotSSCL/aug1/varol-icwsm_16_16.json
+BotSSCL/aug1/varol-icwsm_16_32.json
+BotSSCL/aug1/varol-icwsm_16_64.json
+BotSSCL/aug1/varol-icwsm_32_128.json
+BotSSCL/aug1/varol-icwsm_32_16.json
+BotSSCL/aug1/varol-icwsm_32_32.json
+BotSSCL/aug1/varol-icwsm_32_64.json
+BotSSCL/aug1/varol-icwsm_64_128.json
+BotSSCL/aug1/varol-icwsm_64_16.json
+BotSSCL/aug1/varol-icwsm_64_32.json
+BotSSCL/aug1/varol-icwsm_64_64.json
+BotSSCL/aug1_results.csv
+BotSSCL/aug2/gilani-2017_16_16.json
+BotSSCL/aug2/gilani-2017_16_32.json
+BotSSCL/aug2/gilani-2017_32_16.json
+BotSSCL/aug2/gilani-2017_32_32.json
+BotSSCL/aug2/varol-icwsm_16_16.json
+BotSSCL/aug2/varol-icwsm_16_32.json
+BotSSCL/aug2/varol-icwsm_32_16.json
+BotSSCL/aug2/varol-icwsm_32_32.json
+BotSSCL/aug2_results.csv
+BotSSCL/aug3/gilani-2017_128_128.json
+BotSSCL/aug3/gilani-2017_128_16.json
+BotSSCL/aug3/gilani-2017_128_32.json
+BotSSCL/aug3/gilani-2017_128_64.json
+BotSSCL/aug3/gilani-2017_16_128.json
+BotSSCL/aug3/gilani-2017_16_16.json
+BotSSCL/aug3/gilani-2017_16_32.json
+BotSSCL/aug3/gilani-2017_16_64.json
+BotSSCL/aug3/gilani-2017_32_128.json
+BotSSCL/aug3/gilani-2017_32_16.json
+BotSSCL/aug3/gilani-2017_32_32.json
+BotSSCL/aug3/gilani-2017_32_64.json
+BotSSCL/aug3/gilani-2017_64_128.json
+BotSSCL/aug3/gilani-2017_64_16.json
+BotSSCL/aug3/gilani-2017_64_32.json
+BotSSCL/aug3/gilani-2017_64_64.json
+BotSSCL/aug3/varol-icwsm_128_128.json
+BotSSCL/aug3/varol-icwsm_128_16.json
+BotSSCL/aug3/varol-icwsm_128_32.json
+BotSSCL/aug3/varol-icwsm_128_64.json
+BotSSCL/aug3/varol-icwsm_16_128.json
+BotSSCL/aug3/varol-icwsm_16_16.json
+BotSSCL/aug3/varol-icwsm_16_32.json
+BotSSCL/aug3/varol-icwsm_16_64.json
+BotSSCL/aug3/varol-icwsm_32_128.json
+BotSSCL/aug3/varol-icwsm_32_16.json
+BotSSCL/aug3/varol-icwsm_32_32.json
+BotSSCL/aug3/varol-icwsm_32_64.json
+BotSSCL/aug3/varol-icwsm_64_128.json
+BotSSCL/aug3/varol-icwsm_64_16.json
+BotSSCL/aug3/varol-icwsm_64_32.json
+BotSSCL/aug3/varol-icwsm_64_64.json
+BotSSCL/aug3_results.csv
+BotSSCL/batch_size_experiments/gilani-2017_64_64_128.json
+BotSSCL/batch_size_experiments/gilani-2017_64_64_256.json
+BotSSCL/batch_size_experiments/gilani-2017_64_64_512.json
+BotSSCL/batch_size_experiments/process.py
+BotSSCL/batch_size_experiments/varol-icwsm_64_64_128.json
+BotSSCL/batch_size_experiments/varol-icwsm_64_64_256.json
+BotSSCL/batch_size_experiments/varol-icwsm_64_64_512.json
+BotSSCL/botsscl_augmentation_1.py
+BotSSCL/botsscl_augmentation_1_batch_size.py
+BotSSCL/botsscl_augmentation_1_corr_rate.py
+BotSSCL/botsscl_augmentation_1_epoch.py
+BotSSCL/botsscl_augmentation_1_supervised.py
+BotSSCL/botsscl_augmentation_1_supervised_v2.py
+BotSSCL/botsscl_augmentation_2.py
+BotSSCL/botsscl_augmentation_3.py
+BotSSCL/check_pyscarf.py
+BotSSCL/combine_corrupted.py
+BotSSCL/corruption_rate_experiments/corr_rate_experiment.csv
+BotSSCL/corruption_rate_experiments/gilani-2017_64_64_0.4.json
+BotSSCL/corruption_rate_experiments/gilani-2017_64_64_0.5.json
+BotSSCL/corruption_rate_experiments/gilani-2017_64_64_0.6.json
+BotSSCL/corruption_rate_experiments/gilani-2017_64_64_0.7.json
+BotSSCL/corruption_rate_experiments/gilani-2017_64_64_0.8.json
+BotSSCL/corruption_rate_experiments/process.py
+BotSSCL/corruption_rate_experiments/varol-icwsm_16_64_0.4.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_16_64_0.5.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_16_64_0.6.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_16_64_0.7.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_16_64_0.8.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_64_16_0.4.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_64_16_0.5.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_64_16_0.6.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_64_16_0.7.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_64_16_0.8.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_64_64_0.4.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_64_64_0.5.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_64_64_0.6.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_64_64_0.7.json
+BotSSCL/corruption_rate_experiments/varol-icwsm_64_64_0.8.json
+BotSSCL/create_graphs.sh
+BotSSCL/epoch_experiments/gilani-2017_64_64_1000.json
+BotSSCL/epoch_experiments/gilani-2017_64_64_10000.json
+BotSSCL/epoch_experiments/gilani-2017_64_64_5000.json
+BotSSCL/epoch_experiments/process.py
+BotSSCL/epoch_experiments/varol-icwsm_64_64_1000.json
+BotSSCL/epoch_experiments/varol-icwsm_64_64_10000.json
+BotSSCL/epoch_experiments/varol-icwsm_64_64_5000.json
+BotSSCL/example/__init__.py
+BotSSCL/example/dataset.py
+BotSSCL/example/example.ipynb
+BotSSCL/example/sup_dataset.py
+BotSSCL/example/sup_utils.py
+BotSSCL/example/utils.py
+BotSSCL/impute_data.py
+BotSSCL/requirements.txt
+BotSSCL/run_impute.py
+BotSSCL/scarf/__init__.py
+BotSSCL/scarf/loss.py
+BotSSCL/scarf/loss_hard_negative_sampling.py
+BotSSCL/scarf/loss_negative_sampling.py
+BotSSCL/scarf/model.py
+BotSSCL/scarf/model_botsscl.py
+BotSSCL/scarf/model_botsscl_aug_1.py
+BotSSCL/scarf/model_botsscl_aug_2.py
+BotSSCL/scarf/model_botsscl_aug_3.py
+BotSSCL/scarf/sup_loss.py
+BotSSCL/scarf/sup_loss_v2.py
+BotSSCL/supervised_experiments/gilani-2017_64_64_sup.json
+BotSSCL/supervised_experiments/gilani-2017_64_64_sup_v2.json
+BotSSCL/supervised_experiments/process.py
+BotSSCL/supervised_experiments/sup_experiment_final.csv
+BotSSCL/supervised_experiments/varol-icwsm_16_64_sup.json
+BotSSCL/supervised_experiments/varol-icwsm_16_64_sup_v2.json
+BotSSCL/tabulate.py
+BotSSCL/twitter_user_representation.py
+Data Collection/Datasets/.gitignore
+Data Collection/Datasets/combine.py
+Data Collection/Datasets/combine_twibot.py
+Data Collection/Datasets/description_embedding.py
+Data Collection/Datasets/description_tweet_embedding.py
+Data Collection/Datasets/description_tweet_embedding_twibot.py
+Data Collection/Datasets/gilani-2017-clean.csv
+Data Collection/Datasets/paths.py
+Data Collection/Datasets/paths_twibot.py
+Data Collection/Datasets/process_data.sh
+Data Collection/Datasets/process_data_twibot.sh
+Data Collection/Datasets/timeline_embedding.py
+Data Collection/Datasets/timeline_extracted_features_clean.py
+Data Collection/Datasets/timeline_extracted_features_clean_bot_lite.py
+Data Collection/Datasets/timeline_extracted_features_clean_twibot.py
+Data Collection/Datasets/timeline_extracted_features_raw.py
+Data Collection/Datasets/user_extracted_features_clean.py
+Data Collection/Datasets/user_extracted_features_clean_bot_lite.py
+Data Collection/Datasets/user_extracted_features_clean_twibot.py
+Data Collection/Datasets/user_extracted_features_raw.py
+Data Collection/Datasets/varol-icwsm-clean.csv
+Data Collection/README.md
+Data Collection/Raw Labels/active_ids.py
+Data Collection/Raw Labels/active_users/gilani-2017.csv
+Data Collection/Raw Labels/active_users/twibot-s1.csv
+Data Collection/Raw Labels/active_users/twibot-s2.csv
+Data Collection/Raw Labels/active_users/varol-icwsm.csv
+Data Collection/Raw Labels/gilani-2017.txt
+Data Collection/Raw Labels/political-feedback.txt
+Data Collection/Raw Labels/varol-icwsm.txt
+Data Collection/auxillary/config.json
+Data Collection/auxillary/config1.json
+Data Collection/auxillary/ratelimit_manager.py
+Data Collection/auxillary/twitterv1.py
+Data Collection/auxillary/twitterv2.py
+Data Collection/main.py
+Data Collection/requirements.txt
